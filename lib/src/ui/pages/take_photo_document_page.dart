@@ -77,7 +77,7 @@ class _CameraPreview extends StatelessWidget {
               ...takePhotoDocumentStyle.children!,
 
             /// Default
-            const ButtonTakePhoto(),
+            //const ButtonTakePhoto(),
           ],
         );
       },
